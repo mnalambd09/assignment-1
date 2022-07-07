@@ -51,8 +51,6 @@ a{
     font-size: 50px;
     margin-bottom: 15px;
     margin-top: 100px;
-    
-
 }
 .donate-p{
     text-align: center;
@@ -83,7 +81,7 @@ a{
 }
 .input-section{
     clear: left;
-   }
+}
 #other-amount{
     margin-top: 60px;
     border: none;
@@ -146,7 +144,6 @@ hr{
     color: green;
     margin-bottom: 0px;
     padding: 20px;
-   
 }
 .gallery-part1{
     display: flex;
@@ -169,7 +166,6 @@ hr{
 .updates{
     clear: left;
     padding-top: 50px;
-    
 }
 .updates h1{
     font-size: 50px;
