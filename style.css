@@ -60,9 +60,9 @@ a{
     margin: 0 auto;
 }
 .donate-case{
-    width: 100%;
-    margin-left: 200px;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .donate-amount{
     width: 105px;
@@ -99,6 +99,9 @@ hr{
 }
 .card-section{
     margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .plan{
     font-size: 50px;
@@ -136,25 +139,19 @@ hr{
 }
 .gallery-section{
     clear: left;
-    width:1120px ;
-    height:900px;
-    margin: 50px;
-    border: 1px solid red;;
-    box-shadow: 10px 10px 10px rgb(4, 4, 4);
-    border-radius: 10px;
-    
-    
 }
-.gallery-section h1{
+.gallery-section-h1{
     font-size: 50px;
     text-align: center;
     color: green;
     margin-bottom: 0px;
-    border: 1px solid red;
     padding: 20px;
-    box-shadow: 10px 10px 10px rgb(4, 4, 4);
-    border-radius: 10px;
-
+   
+}
+.gallery-part1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .gallery{
     width: 330px;
@@ -172,6 +169,7 @@ hr{
 .updates{
     clear: left;
     padding-top: 50px;
+    
 }
 .updates h1{
     font-size: 50px;
