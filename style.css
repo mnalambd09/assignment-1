@@ -134,6 +134,41 @@ hr{
 #card-3{
     background-color: rgb(242, 240, 189);
 }
+.gallery-section{
+    clear: left;
+    width:1120px ;
+    height:900px;
+    margin: 50px;
+    border: 1px solid red;;
+    box-shadow: 10px 10px 10px rgb(4, 4, 4);
+    border-radius: 10px;
+    
+    
+}
+.gallery-section h1{
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    margin-bottom: 0px;
+    border: 1px solid red;
+    padding: 20px;
+    box-shadow: 10px 10px 10px rgb(4, 4, 4);
+    border-radius: 10px;
+
+}
+.gallery{
+    width: 330px;
+    height: 300px;
+    float: left;
+    margin: 20px;
+}
+.gallery img{
+    width: 95%;
+    height: 95%;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
 .updates{
     clear: left;
     padding-top: 50px;
